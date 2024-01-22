@@ -3,7 +3,7 @@ spring:
   # Database
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://devopsfti1.postgres.database.azure.com
+    url: jdbc:postgresql://devopsfti1.postgres.database.azure.com/postgres
     username: emine
     password: Informatika2024
   # JPA properties
