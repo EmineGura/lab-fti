@@ -20,6 +20,6 @@ jobs:
       with:       
        username: ${{ secrets.DOCKER_HUB_USERNAME }} 
        password:  ${{ secrets.DOCKER_HUB_PASSWORD }}
-       repository: eminegurra/lab-fti       
+       repository: EmineGura/lab-fti      
        tags: ${{github.run_number}}
-       
+
