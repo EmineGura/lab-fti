@@ -27,5 +27,5 @@ jobs:
             context: .
             file: Dockerfile
             push: true
-            tags: eminegura/lab-fti:LATEST  
+            tags: eminegura/lab-fti:latest  
 
