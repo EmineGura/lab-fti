@@ -29,4 +29,5 @@ spec:
           persistentVolumeClaim:
             claimName: postgres-pv-claim
 
+            
 # kubectl apply -f postgres-deployment.yaml 
